@@ -1,2 +1,2 @@
-# Unet-for-salt-segmentaion
-Segmentation of salt deposits using Unet
+# Unet-for-nuclei-segmentation
+Segmentation of nuclei using Unet
